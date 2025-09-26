@@ -1,0 +1,37 @@
+.title-container{
+              text-align: center;
+        }           
+
+            h1 {
+            color: rgb(237, 14, 59);
+        }
+            body {
+            background-color: rgb(130, 245, 14);
+        }
+            strong{
+                color:rgb(82, 29, 240);
+            }
+            
+            .bullet_point{
+            background-color: white;
+        }
+        
+            .description{
+            background-color: yellow;
+        }
+            img.centered{
+            display: block;
+            margin: auto;
+            width: auto;
+             
+        }
+
+            #container{
+              margin:200px;          
+        }
+
+            .panel{
+            border: 2px solid black;
+            padding: 16px;
+            background-color: lightblue;
+}
